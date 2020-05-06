@@ -6,4 +6,3 @@ def my_collect(array)
     count += 1
   end
 end
-
